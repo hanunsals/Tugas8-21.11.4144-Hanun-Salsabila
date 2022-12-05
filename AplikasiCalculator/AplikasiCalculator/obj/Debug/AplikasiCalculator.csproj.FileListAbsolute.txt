@@ -1,0 +1,12 @@
+C:\Users\HP\Downloads\02 Tugas Delegate dan Event\AplikasiCalculator\AplikasiCalculator\bin\Debug\AplikasiCalculator.exe.config
+C:\Users\HP\Downloads\02 Tugas Delegate dan Event\AplikasiCalculator\AplikasiCalculator\bin\Debug\AplikasiCalculator.exe
+C:\Users\HP\Downloads\02 Tugas Delegate dan Event\AplikasiCalculator\AplikasiCalculator\bin\Debug\AplikasiCalculator.pdb
+C:\Users\HP\Downloads\02 Tugas Delegate dan Event\AplikasiCalculator\AplikasiCalculator\obj\Debug\AplikasiCalculator.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\02 Tugas Delegate dan Event\AplikasiCalculator\AplikasiCalculator\obj\Debug\AplikasiCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Downloads\02 Tugas Delegate dan Event\AplikasiCalculator\AplikasiCalculator\obj\Debug\AplikasiCalculator.Calculator.resources
+C:\Users\HP\Downloads\02 Tugas Delegate dan Event\AplikasiCalculator\AplikasiCalculator\obj\Debug\AplikasiCalculator.HasilPerhitungan.resources
+C:\Users\HP\Downloads\02 Tugas Delegate dan Event\AplikasiCalculator\AplikasiCalculator\obj\Debug\AplikasiCalculator.Properties.Resources.resources
+C:\Users\HP\Downloads\02 Tugas Delegate dan Event\AplikasiCalculator\AplikasiCalculator\obj\Debug\AplikasiCalculator.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\02 Tugas Delegate dan Event\AplikasiCalculator\AplikasiCalculator\obj\Debug\AplikasiCalculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\02 Tugas Delegate dan Event\AplikasiCalculator\AplikasiCalculator\obj\Debug\AplikasiCalculator.exe
+C:\Users\HP\Downloads\02 Tugas Delegate dan Event\AplikasiCalculator\AplikasiCalculator\obj\Debug\AplikasiCalculator.pdb
